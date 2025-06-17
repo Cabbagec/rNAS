@@ -1,0 +1,8 @@
+[package]
+name = "RNAS"
+authors = ["Brandon Zhang <i@xcel.me>"]
+version = "0.1.0"
+edition = "2024"
+description = "A unified solution for your Network Attached Storage systems"
+
+[dependencies]
