@@ -1,0 +1,7 @@
+[common]
+listen_port = 8080
+database_url = "sqlite://data.db"
+
+log_level = "debug"
+
+log_file = "app.log"
